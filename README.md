@@ -2,6 +2,8 @@
 
 **[防御性公开声明 / Defensive Publication]**
 
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
 本平台设计仅授权个人以非商业目的进行学习、研究及个人3D打印实践。
 
 不得用于任何商业用途，包括但不限于生产制造、销售、代工、广告宣传、商业展示及其他营利性质活动。
@@ -27,6 +29,8 @@
 ---
 
 ## 📜 许可协议 (License)
+
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 
 本项目采用 **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)** 协议进行授权。
 
